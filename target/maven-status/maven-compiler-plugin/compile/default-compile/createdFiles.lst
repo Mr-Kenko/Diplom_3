@@ -1,0 +1,9 @@
+data\browser\WebDriverBrowser.class
+pages\LoginPage.class
+pages\PasswordRecoveryPage.class
+data\user\ApiUserClient.class
+pages\HomePage.class
+data\browser\WebDriverBrowser$1.class
+data\browser\Browser.class
+pages\RegistrationPage.class
+pages\ProfilePage.class
